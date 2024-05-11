@@ -11,6 +11,7 @@
 [![GitHub Tholkappiar](https://img.shields.io/github/followers/tholkappiar?label=follow&style=social)](https://github.com/tholkappiar)
 [![Holopin: Tholkappiar](https://img.shields.io/badge/-Holopin-green?style=flat-square&link=https://holopin.me/tholkappiar/)](https://holopin.io/@tholkappiar)
 ![](https://komarev.com/ghpvc/?username=tholkappiar&label=PROFILE+VIEWS)
+![](https://hit.yhype.me/github/profile?user_id=114584730)
 
 ```javascript
 const Tholkappiar = {
