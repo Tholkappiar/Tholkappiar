@@ -5,7 +5,6 @@
 <!-- framework: "SpringBoot", -->
 
 <h2> Hi, I'm Tholkappiar 👋  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-</em></p>
 
 [![Linkedin: Tholkappiar](https://img.shields.io/badge/-Tholkappiar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tholkappiar/)](https://www.linkedin.com/in/tholkappiar/)
 [![GitHub Tholkappiar](https://img.shields.io/github/followers/tholkappiar?label=follow&style=social)](https://github.com/tholkappiar)
@@ -15,12 +14,13 @@
 
 ```javascript
 const Tholkappiar = {
-	pronouns: "he" | "him",
+	pronouns: "He" | "Him",
 	code: ["ReactJS", "Javascript", "Java", "HTML", "CSS", "PHP"],
 	skills: {
 		databases: ["MySQL"],
 		tools: ["Git", "Linux", "VsCode"],
 	},
+	askMeAbout: ["web dev", "tech", "security"],
 };
 ```
 
