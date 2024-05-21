@@ -18,7 +18,7 @@ const Tholkappiar = {
 	code: ["ReactJS", "Javascript", "Java", "HTML", "CSS", "PHP"],
 	skills: {
 		databases: ["MySQL"],
-		tools: ["Git", "Linux", "VsCode"],
+		tools: ["Git", "Linux"],
 	},
 	askMeAbout: ["web dev", "tech", "security"],
 };
