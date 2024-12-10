@@ -9,13 +9,13 @@
 [![Linkedin: Tholkappiar](https://img.shields.io/badge/-Tholkappiar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tholkappiar/)](https://www.linkedin.com/in/tholkappiar/)
 [![Holopin: Tholkappiar](https://img.shields.io/badge/-Holopin-green?style=flat-square&link=https://holopin.me/tholkappiar/)](https://holopin.io/@tholkappiar)
 ![](https://komarev.com/ghpvc/?username=tholkappiar&label=PROFILE+VIEWS)
+![](https://hit.yhype.me/github/profile?user_id=114584730)
 
 <!-- Blog -->
 
 #### Blog : [blog.tholkappiar.me](https://blog.tholkappiar.me)
 
 <!-- Badges -->
-<!-- ![](https://hit.yhype.me/github/profile?user_id=114584730) -->
 <!-- [![GitHub Tholkappiar](https://img.shields.io/github/followers/tholkappiar?label=follow&style=social)](https://github.com/tholkappiar) -->
 
 ```javascript
