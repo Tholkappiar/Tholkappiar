@@ -12,7 +12,7 @@
 
 <!-- Blog -->
 
-#### 👨‍💻 Blog: [blog.tholkappiar.me](https://blog.tholkappiar.me)
+#### Blog : [blog.tholkappiar.me](https://blog.tholkappiar.me)
 
 <!-- Badges -->
 <!-- ![](https://hit.yhype.me/github/profile?user_id=114584730) -->
