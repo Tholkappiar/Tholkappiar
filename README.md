@@ -21,8 +21,9 @@
 ```javascript
 const Tholkappiar = {
     pronouns: "He" | "Him",
-    code: ["ReactJS", "Javascript", "Java", "TypeScript", "Express"],
-    skills: {
+    age: 21,
+    code: ["ReactJS", "React Native", "TypeScript", "Express", "WebRTC", "WebSockets", "ORM", "JAVA" ],
+    misc: {
         databases: ["MySQL"],
         tools: ["Git"],
     },
